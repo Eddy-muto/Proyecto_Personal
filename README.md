@@ -1,0 +1,2 @@
+
+echo "# Bienvenido al curso"
